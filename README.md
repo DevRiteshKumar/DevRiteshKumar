@@ -8,11 +8,10 @@
 
 ---
 
-📊 **GitHub Stats**  
-
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRiteshKumar&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRiteshKumar&layout=compact&theme=radical)  
+### 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=DevRiteshKumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevRiteshKumar&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRiteshKumar&theme=radical&hide_border=false&layout=compact)  
 
 ### 🛠️ Tech Stack  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
