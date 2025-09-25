@@ -1,17 +1,9 @@
 # Hi 👋, I'm Ritesh Kumar  
 
-🚀 **Flutter Developer | Mobile App Enthusiast**  
-
-- 🌱 Exploring **Firebase, Clean Architecture & State Management**  
-- 💬 Ask me about **Flutter, Dart, Firebase, REST APIs**  
-- 📧 Reach me at: **ry018009@gmail.com**  
-
----
-
-### 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=DevRiteshKumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevRiteshKumar&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRiteshKumar&theme=radical&hide_border=false&layout=compact)  
+🚀 Flutter Developer | Mobile App Enthusiast  
+🌱 Exploring Firebase, Clean Architecture & State Management  
+💬 Ask me about Flutter, Dart, Firebase, REST APIs  
+📧 Reach me at: **ry018009@gmail.com**  
 
 ---
 
@@ -24,10 +16,12 @@
 
 ---
 
-### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ry018009@gmail.com)  
+### 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=DevRiteshKumar&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevRiteshKumar&theme=radical)  
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ry018009@gmail.com)  
